@@ -1,4 +1,4 @@
-# Taxi Data Analysis - March 2023
+# Taxi Data Analysis  🚕- March 2023
 
 This repository contains the analysis of TLC taxi data for March 2023. The data was analyzed, preprocessed, and manipulated to determine the best places to stand divided by the time of day and whether it's a weekend or weekday.
 
