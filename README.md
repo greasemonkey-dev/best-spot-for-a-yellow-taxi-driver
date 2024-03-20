@@ -6,7 +6,7 @@ This repository contains the analysis of TLC taxi data for March 2023. The data 
 The data used for this analysis is the [TLC (Taxi and Limousine Commission) taxi data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) for March 2023. It includes information about taxi rides, such as pickup and dropoff locations, timestamps, and fare amounts.
 
 ## Analysis
-1. **Preprocessing**: The raw data was cleaned and preprocessed to handle missing values, outliers, and any inconsistencies in the data.
+1. **Preprocessing**: The raw data was cleaned and preprocessed to handle missing values, outliers (using z-score), and any inconsistencies in the data.
 2. **Manipulation**: Various manipulation techniques were applied to the data to extract meaningful insights. This included grouping the data by time of day (morning, afternoon, evening, night) and distinguishing between weekdays and weekends.
 3. **Analysis**: Analytical techniques were applied to determine the best places to stand for taxi pickups based on the time of day and whether it's a weekday or weekend.
 
